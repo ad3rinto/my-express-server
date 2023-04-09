@@ -1,0 +1,23 @@
+{
+  "name": "my-express-server",
+  "version": "1.0.0",
+  "description": "creating a server as part of JS tutorial",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ad3rinto/my-express-server.git"
+  },
+  "keywords": [
+    "Express"
+  ],
+  "author": "M Aderinto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ad3rinto/my-express-server/issues"
+  },
+  "homepage": "https://github.com/ad3rinto/my-express-server#readme"
+}
